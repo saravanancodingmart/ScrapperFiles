@@ -1,0 +1,99 @@
+EANHotelID|
+SequenceNumber|
+Name|
+Address1|
+Address2|
+City|
+StateProvince|
+PostalCode|
+Country|
+Latitude|
+Longitude|
+AirportCode|
+PropertyCategory|
+PropertyCurrency|
+StarRating|
+Confidence|
+SupplierType|
+Location|
+ChainCodeID|
+RegionID|
+HighRate|
+LowRate|
+CheckInTime|
+CheckOutTime
+-----------------------------------------
+391607|
+256717|
+Silver Hills Motel|
+3 Penghana Road|
+|
+Queenstown|
+TS|
+7467|
+AU|
+-42.07425|
+145.55742|
+UEE|
+2|
+AUD|
+3.0|
+52|
+ESR|
+In the city center|
+|
+|
+121.8882|
+84.9524|
+2 PM|
+10 AM
+--------------------------------------------
+397212|
+205720|
+Vivanta by Taj Surya|
+105 Race Course Road|
+|
+Coimbatore|
+|
+641018|
+IN|
+10.99995|
+76.98162|
+CJB|
+1|
+INR|
+5.0|
+52|
+ESR|
+Near Gedee Car Museum|
+2586|
+|
+227.0253|
+90.1881|
+2:00 PM|
+12:00 PM
+---------------------------------------------------------------
+390172|
+175110|
+Aloft Coimbatore Singanallur|Aloft Coimbatore
+483 Kamaraj Road|	
+Upplipalayam|
+Coimbatore|
+|
+641015|
+IN|
+11.00363| 11.01469
+76.97107| 77.024242
+CJB|
+1|
+INR|
+4.0|
+52|
+ESR|
+Near Gedee Car Museum|
+2308|
+|
+66.311|
+65.311|
+12:00 PM|
+12:00 PM

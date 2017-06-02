@@ -1,0 +1,6 @@
+room-types : $($("li.room.cont.clearfix .room-info").find("h3")[0...n]).text()
+
+bed-types : $($(".bed-types.widget-tooltip.widget-tooltip-responsive")[0..n]).text()
+
+room information : $($("ul.bulleted")[0..n]).text()
+
